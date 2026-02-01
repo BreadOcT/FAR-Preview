@@ -1,0 +1,8 @@
+{
+  "name": "Food AI Rescue Preview For Progress",
+  "description": "Platform penyelamatan surplus makanan berbasis AI dan komunitas.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
